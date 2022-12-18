@@ -8,3 +8,6 @@
 4. 아이템 필터링 헤더 기능 구현.
 
 Netlify Deployment:
+
+실행화면
+<img src="todo.png"/>
