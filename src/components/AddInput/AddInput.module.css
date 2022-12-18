@@ -1,0 +1,29 @@
+.workform {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 15px 10px;
+  background-color: var(--color-bg-heavy);
+  border-top: 1px solid gray;
+}
+
+.workinput {
+  width: 80%;
+  font-size: 15px;
+  padding: 8px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.submit_btn {
+  margin-left: 5px;
+  width: 20%;
+  font-size: 15px;
+  background-color: var(--color-accent);
+  color: white;
+  font-weight: bold;
+  border: 2px solid gray;
+  border-radius: 10px;
+  padding: 8px;
+}
